@@ -1,0 +1,4 @@
+production/venv/
+__pycache__/
+*.pyc
+production/scripts/segoeui.ttf

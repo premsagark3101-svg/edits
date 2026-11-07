@@ -1,0 +1,3 @@
+file 'C:/Users/jonat/Desktop/gospel video/production/audio/seg1_padded.wav'
+file 'C:/Users/jonat/Desktop/gospel video/production/audio/seg2_act4.wav'
+file 'C:/Users/jonat/Desktop/gospel video/production/audio/seg3_act5_PROVISIONAL.wav'

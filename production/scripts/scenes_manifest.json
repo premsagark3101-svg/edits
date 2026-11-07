@@ -1,0 +1,66 @@
+{
+  "fps": 24,
+  "width": 1920,
+  "height": 1080,
+  "total_duration": 230.0,
+  "shots": [
+    {"id": "A1_S0_black", "act": 1, "start": 0.0, "end": 2.0, "image": null, "camera": "static_black", "label": "black open"},
+    {"id": "A1_S1_establish", "act": 1, "start": 2.0, "end": 10.0, "image": "generated_images/A1_S1_establish.png", "camera": "dolly_in", "label": "wide establishing white room"},
+    {"id": "A1_S2_dollyin", "act": 1, "start": 10.0, "end": 18.0, "image": "generated_images/A1_S2_dollyin.png", "camera": "dolly_in", "label": "closer dolly-in"},
+    {"id": "A1_S3_mirror", "act": 1, "start": 18.0, "end": 26.0, "image": "generated_images/A1_S3_mirror.png", "camera": "static", "label": "mirror reflection"},
+    {"id": "A1_S4_walkaway", "act": 1, "start": 26.0, "end": 35.0, "image": "generated_images/A1_S4_walkaway.png", "camera": "dolly_out", "label": "walk away, long shadow"},
+
+    {"id": "A2_S1_possessions", "act": 2, "start": 35.0, "end": 51.0, "image": "generated_images/A2_S1_possessions.png", "camera": "static", "label": "watch money trophy dissolve"},
+    {"id": "A2_S2_mirrors", "act": 2, "start": 51.0, "end": 67.0, "image": "generated_images/A2_S2_mirrors.png", "camera": "orbit", "label": "room of mirrors"},
+    {"id": "A2_S3_screens", "act": 2, "start": 67.0, "end": 81.0, "image": "generated_images/A2_S3_screens.png", "camera": "static", "label": "floating screens"},
+    {"id": "A2_S4_doorway", "act": 2, "start": 81.0, "end": 95.0, "image": "generated_images/A2_S4_doorway.png", "camera": "dolly_in", "label": "bright doorway, empty room beyond"},
+
+    {"id": "A3_S1_corridor", "act": 3, "start": 95.0, "end": 107.0, "image": "generated_images/A3_S1_corridor.png", "camera": "track", "label": "corridor passerby"},
+    {"id": "A3_S2_reach", "act": 3, "start": 107.0, "end": 118.0, "image": "generated_images/A3_S2_reach.png", "camera": "static", "label": "figure reaching out"},
+    {"id": "A3_S3_pointing", "act": 3, "start": 118.0, "end": 130.0, "image": "generated_images/A3_S3_pointing.png", "camera": "orbit", "label": "pointing reveals mirror"},
+    {"id": "A3_S4_vignettes", "act": 3, "start": 130.0, "end": 142.0, "image": "generated_images/A3_S4_vignettes.png", "camera": "static", "label": "symbolic vignettes (4 quick beats)"},
+    {"id": "A3_S5_shadow", "act": 3, "start": 142.0, "end": 158.0, "image": "generated_images/A3_S5_shadow.png", "camera": "low_angle_static", "label": "enormous growing shadow"},
+    {"id": "A3_S6_turn", "act": 3, "start": 158.0, "end": 165.0, "image": "generated_images/A3_S6_turn.png", "camera": "static", "label": "turning toward shadow, cut to black"},
+    {"id": "A3_S7_silence", "act": 3, "start": 165.0, "end": 169.0, "image": null, "camera": "static_black", "label": "SILENCE HOLD - do not shorten"},
+
+    {"id": "A4_S1_alone", "act": 4, "start": 169.0, "end": 181.0, "image": "generated_images/A4_S1_alone.png", "camera": "dolly_out", "label": "sitting alone, camera pulls back"},
+    {"id": "A4_S2_light", "act": 4, "start": 181.0, "end": 190.0, "image": "generated_images/A4_S2_light.png", "camera": "static", "label": "distant golden light appears"},
+
+    {"id": "A5_S1_star", "act": 5, "start": 190.0, "end": 200.0, "image": "generated_images/A5_S1_star.png", "camera": "dolly_in", "label": "star forms, walking toward it"},
+    {"id": "A5_S2_manger", "act": 5, "start": 200.0, "end": 208.0, "image": "generated_images/A5_S2_manger.png", "camera": "static", "label": "manger silhouette"},
+    {"id": "A5_S3_cross", "act": 5, "start": 208.0, "end": 220.0, "image": "generated_images/A5_S3_cross.png", "camera": "dolly_in", "label": "wooden cross on hill"},
+    {"id": "A5_S4_before_cross", "act": 5, "start": 220.0, "end": 228.0, "image": "generated_images/A5_S4_before_cross.png", "camera": "static", "label": "character before the cross"},
+    {"id": "A5_S5_blackout", "act": 5, "start": 228.0, "end": 230.0, "image": null, "camera": "static_black", "label": "fade to black, end"}
+  ],
+  "text_overlays": [
+    {"text": "I'm doing fine.", "start": 4.0, "end": 7.5},
+    {"text": "I'm a good person.", "start": 8.0, "end": 11.5},
+    {"text": "I don't hurt anyone.", "start": 12.0, "end": 15.5},
+    {"text": "I'm not like those people.", "start": 16.0, "end": 19.5},
+
+    {"text": "Maybe I need more.", "start": 44.0, "end": 49.0},
+    {"text": "Maybe I need to be accepted.", "start": 60.0, "end": 65.0},
+    {"text": "Maybe I just need a distraction.", "start": 74.0, "end": 79.0},
+    {"text": "Maybe then I'll feel complete.", "start": 88.0, "end": 93.0},
+
+    {"text": "Sometimes, we look away.", "start": 112.0, "end": 117.0},
+    {"text": "We see what's wrong with others.", "start": 122.0, "end": 126.0},
+    {"text": "But what about us?", "start": 126.5, "end": 130.0},
+    {"text": "Our excuses.", "start": 145.0, "end": 148.0},
+    {"text": "Our selfishness.", "start": 148.5, "end": 151.5},
+    {"text": "Our hidden moments.", "start": 152.0, "end": 155.0},
+    {"text": "Not just them.", "start": 159.0, "end": 161.0},
+    {"text": "Not just those people.", "start": 161.2, "end": 163.2},
+    {"text": "All of us.", "start": 163.4, "end": 165.0},
+
+    {"text": "We kept searching.", "start": 171.0, "end": 175.0},
+    {"text": "In everything.", "start": 175.5, "end": 179.5},
+    {"text": "But what if we were missing Someone?", "start": 183.0, "end": 189.0},
+
+    {"text": "Love came looking for us.", "start": 192.0, "end": 198.0},
+    {"text": "Jesus.", "start": 202.0, "end": 207.0},
+    {"text": "Born for us.", "start": 210.0, "end": 218.0},
+    {"text": "LOVE CAME DOWN.", "start": 221.0, "end": 225.0},
+    {"text": "JESUS", "start": 225.5, "end": 228.0}
+  ]
+}
